@@ -1,0 +1,50 @@
+.box {
+     position:relative;
+     margin: 10px auto;
+     width: 100;
+     height: 50px;
+     background-color: plum;}
+
+.box-2 {
+     position:relative;
+     margin: 10px auto;
+     width: 50;
+     height: 20px;
+     background-color: rgb(204, 157, 245);}
+
+.box-3 {
+          position:relative;
+          margin: 10px auto;
+          width: 50;
+          height: 20px;
+          background-color: peachpuff;}
+
+.dashed {
+     background-color: aquamarine;
+     color: black;
+}
+
+.life {
+     text-transform: uppercase;
+}
+
+.shadow 
+{
+     text-shadow: 12px 12px grey;
+}
+
+.glow {
+     text-shadow: 12px 12px 2px rebeccapurple;
+}
+
+.box-4 {
+     background-color: lightcoral;
+     opacity: 0.6;
+}
+
+.double
+{
+     border: 2px solid slateblue;
+     outline-style: double;
+     outline-color: darkmagenta;
+}
